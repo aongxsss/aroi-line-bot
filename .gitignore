@@ -1,2 +1,3 @@
 linebot
 model/*
+.env
